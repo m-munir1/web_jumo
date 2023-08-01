@@ -172,9 +172,20 @@ body {
   font-weight: 400;
   opacity: 80%;
 }
+
 @media only screen and (max-width:6000px) and (min-width:992px){
 .home_top_space{
   padding-top: 180px;
+}
+.bg_img_rsp{
+  background-image: url(./images/Circle-1920w.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+.top_performing_websites_bg{
+  background-image: url(./images/3rd+Fold-1920w.png);
+  background-repeat: no-repeat;
+  background-position: center left;
 }
 }
 @media only screen and (max-width:991px) and (min-width:576px){
